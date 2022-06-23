@@ -19,9 +19,9 @@
   ##
   
 <div align="center" style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center"  height="40" width="40" src="https://media4.giphy.com/media/ylxCK7asJ1sxNL1B1u/giphy.webp" />
+  <img align="center"  height="40" width="40" src="https://media1.giphy.com/media/0RG7WdwApOUQJvVikR/giphy.webp">
+  <img align="center"  height="40" width="40" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -32,7 +32,7 @@
 
 
   </div>
-
+  
   ##
   
   
