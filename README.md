@@ -4,7 +4,7 @@
 - 🔭 Estou estagiando por ai XD 
 - 💡  Na programação à 5 meses
 - 🌱 No momento aprimorando conhecimentos em JAVA
-- ⚡ Coisa engraçada, cai de paraquedas na programação e amei 😄
+- ⚡ Cai de paraquedas na programação e amei 😄
 - 😎 E muitoooo mais
 
 ##
