@@ -3,7 +3,7 @@
 
 - 🔭 Estou estagiando por ai XD 
 - 💡  Na programação à 6 meses
-- 🌱 No momento aprimorando conhecimentos em JAVA
+- 🌱 No momento aprimorando conhecimentos em REACT
 - ⚡ Cai de paraquedas na programação e amei 😄
 - 😎 E muitoooo mais
 
