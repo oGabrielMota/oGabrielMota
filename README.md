@@ -2,8 +2,8 @@
 
 
 - 🔭 Estou estagiando por ai XD 
-- 💡  Na programação à 6 meses
-- 🌱 No momento aprimorando conhecimentos em REACT
+- 💡  Na programação à 7 meses
+- 🌱 No momento aprimorando conhecimentos em REACT NATIVE E C#
 - ⚡ Cai de paraquedas na programação e amei 😄
 - 😎 E muitoooo mais
 
