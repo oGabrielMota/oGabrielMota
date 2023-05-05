@@ -1,10 +1,11 @@
 ### Alohaa, Me Chamo Gabriel 🌴👋
 
 
-- 🔭 Estou estagiando por ai XD 
+- 🔭 Estou de Treinne por ai XD 
 - 💡  Na programação à 1 ano e 2 meses
 - 🌱 No momento aprimorando conhecimentos em REACT, NEXT.JS e JAVA
 - ⚡ Cai de paraquedas na programação e amei 😄
+- 👀 To organizando a casa por aqui ainda hehe
 - 😎 E muitoooo mais
 
 ##
