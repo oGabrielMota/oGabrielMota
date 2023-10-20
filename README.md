@@ -1,9 +1,9 @@
 ### Alohaa, Me Chamo Gabriel 🌴👋
 
 
-- 🔭 Estou de Treinne por ai XD 
-- 💡  Na programação à 1 ano e 2 meses
-- 🌱 No momento aprimorando conhecimentos em REACT, NEXT.JS e JAVA
+- 🔭 Estou desempregado :c 
+- 💡  Na programação à quase 2 anos
+- 🌱 No momento aprimorando conhecimentos em REACT, C# e Java
 - ⚡ Cai de paraquedas na programação e amei 😄
 - 👀 To organizando a casa por aqui ainda hehe
 - 😎 E muitoooo mais
