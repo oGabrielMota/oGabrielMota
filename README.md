@@ -1,8 +1,8 @@
 ### Alohaa, Me Chamo Gabriel 🌴👋
 
 
-- 🔭 Estou desempregado :c 
-- 💡  Na programação à quase 2 anos
+- 🔭 E to de volta trabalhando com Mercado Livre hehe 
+- 💡 Na programação à 2 anos
 - 🌱 No momento aprimorando conhecimentos em REACT, C# e Java
 - ⚡ Cai de paraquedas na programação e amei 😄
 - 👀 To organizando a casa por aqui ainda hehe
