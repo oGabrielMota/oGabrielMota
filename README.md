@@ -1,9 +1,9 @@
 ### Alohaa, Me Chamo Gabriel 🌴👋
 
 
-- 🔭 E to de volta trabalhando com Mercado Livre hehe 
-- 💡 Na programação à 2 anos
-- 🌱 No momento aprimorando conhecimentos em REACT, C# e Java
+- 🔭 No atual momento Gerente de Ecommerce e aplicando programação pra facilitar minha vida hehe
+- 💡 Na programação à 3 anos
+- 🌱 No momento aprimorando conhecimentos em Pyton
 - ⚡ Cai de paraquedas na programação e amei 😄
 - 👀 To organizando a casa por aqui ainda hehe
 - 😎 E muitoooo mais
@@ -26,14 +26,15 @@
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center"  height="30" width="40" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" />
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 
 
   </div>
